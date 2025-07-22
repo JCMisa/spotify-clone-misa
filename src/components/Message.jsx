@@ -1,7 +1,7 @@
 
 const Message = () => {
     return (
-        <div>Message Component from main branch</div>
+        <div>Message Component from JCM Branch</div>
     )
 }
 
