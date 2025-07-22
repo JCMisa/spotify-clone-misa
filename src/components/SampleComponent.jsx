@@ -1,7 +1,7 @@
 
 const SampleComponent = () => {
     return (
-        <div>SampleComponent</div>
+        <div>Hello World</div>
     )
 }
 
