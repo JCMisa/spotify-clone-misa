@@ -19,6 +19,16 @@ const Sidebar = () => {
           <img className="w-6" src={assets.search_icon} alt="img2" />
           <p className="font-bold">Search</p>
         </div>
+
+        <div className="flex items-center gap-3 pl-8 cursor-pointer">
+          <img className="w-6" src={assets.search_icon} alt="img2" />
+          <p className="font-bold">Pricing</p>
+        </div>
+
+        <div className="flex items-center gap-3 pl-8 cursor-pointer">
+          <img className="w-6" src={assets.search_icon} alt="img2" />
+          <p className="font-bold">Help</p>
+        </div>
       </div>
 
       <div className="bg-[#121212] h-[85%] rounded">
