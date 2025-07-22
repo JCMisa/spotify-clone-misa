@@ -10,6 +10,7 @@ const App = () => {
   return (
     <>
       <div className="h-screen bg-black">
+        <h1>Second Branch changes</h1>
         <div className="h-[90%] flex">
           <Sidebar />
           <Display />
