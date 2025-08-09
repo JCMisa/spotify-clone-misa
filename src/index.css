@@ -6,11 +6,12 @@
   display: none;
 }
 
-.redesign-two {
-  color: red;
+.h3-color {
+  font: bold;
+  color: blue;
 }
 
-.h3-color {
+.about-page-h1 {
   font: bold;
   color: blue;
 }
