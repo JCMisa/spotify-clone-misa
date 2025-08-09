@@ -3,5 +3,10 @@
 @tailwind utilities;
 
 ::-webkit-scrollbar {
-    display: none;
+  display: none;
+}
+
+.about-page-h1 {
+  font: bold;
+  color: blue;
 }
