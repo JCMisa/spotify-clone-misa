@@ -12,7 +12,7 @@ const App = () => {
       <div className="h-screen bg-black">
         <h1>Second Branch changes</h1>
         <h2>1. Redesigning the landing page...</h2>
-        <h3 className="redesign-two">2. Redesigning the landing page...</h3>
+        <h3 className="h3-color">2. Redesigning the landing page...</h3>
         <div className="h-[90%] flex">
           <Sidebar />
           <Display />
