@@ -3,5 +3,9 @@
 @tailwind utilities;
 
 ::-webkit-scrollbar {
-    display: none;
+  display: none;
+}
+
+.redesign-two {
+  color: red;
 }
