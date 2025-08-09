@@ -6,6 +6,11 @@
   display: none;
 }
 
+.h3-color {
+  font: bold;
+  color: blue;
+}
+
 .about-page-h1 {
   font: bold;
   color: blue;
