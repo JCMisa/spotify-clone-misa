@@ -13,6 +13,7 @@ const App = () => {
         <h1>Second Branch changes</h1>
         <h2>1. Redesigning the landing page...</h2>
         <h3 className="h3-color">2. Redesigning the landing page...</h3>
+        <h3 className="h4-color">3. Redesigning the landing page...</h3>
         <div className="h-[90%] flex">
           <Sidebar />
           <Display />
